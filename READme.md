@@ -1,15 +1,15 @@
 ![logo](https://github.com/rahimnadan/rahimnadan/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h3 align="center">Aspiring Machine Learning Engineer and Data Scientist</h3>
+<h3 align="center">Aspiring AI Engineer and Data Scientist</h3>
 <img align="right" alt="AI" width="400" src="https://images.wsj.net/im-568211">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimnadan&label=Profile%20views&color=0e75b6&style=flat" alt="rahimnadan" /> </p>
 
-- 🌱 I’m currently learning **Genarative AI**
+- 🌱 I’m driving innovations and solving business problems through  **Genarative AI & Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahimnadan](https://github.com/rahimnadan)
 
-- 💬 Ask me about **Machine Learning,Computer Vision, NLP**
+- 💬 Ask me about **Machine Learning,Computer Vision, NLP, Generative AI, Agentic AI**
 
 - 📫 How to reach me **abdurahimkhan145@gmail.com**
 
